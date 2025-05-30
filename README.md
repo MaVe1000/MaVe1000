@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi , I'm María Verónica Rebolleda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back-End+Student;Junior+Web+Developer+student;Expertised+Accounting+Administrative;|%20Tester%20|%20AI%20|%20Code%20Enthusiast;Junior+QA+Manual+Tester;Music+Lover+and+Singer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -9,47 +11,49 @@
 <h4 align="center">I am a professional with extensive experience in accounting and commercial administration who has recently discovered a passion for technology and software development. I have completed Software Testing courses and am currently training as a Backend Developer.
 I stand out for being highly responsible, organized, and detail-oriented—key skills for ensuring software quality. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src=" /> </p>
+<p align="center"> </p>
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+   &emsp;
+  <a href="https://www.java.com/" target="_blank">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</a>
  
 </p>
 
 ### 👉 Back-End Development
 <p align="left"> 
   &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
+ <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  &emsp;	
+  <a href="https://www.java.com/" target="_blank">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</a>
+ &emsp;	
+ <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> 
   &emsp;
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-
+  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
+ &emsp;
   </a>
 </p>
 
 ### 👉 Frontent Development
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> 
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+ &emsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</a>	
   </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -101,15 +105,19 @@ I stand out for being highly responsible, organized, and detail-oriented—key s
     <a href="https://www.TangoGestion.com/"><img alt="Tango Gestión" src="https://img.shields.io/badge/Tango Gestión-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  
+  &emsp;
+     <a href="#"><img alt="IntelliJ IDA" src="https://img.shields.io/badge/IntelliJ%20 IDEA%20-0018d0.svg?logo=intelliJ-ida&logoColor=white"></a>
+  &emsp;	
 </p>
 
  ### 👉 Testing Tools
  
 <p>
-	 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman%20-%23FF9A00.svg?logo=Postman&logoColor=white"></a>
+	 <a href="https://www.postman.com/" target="_blank">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</a>
   &emsp;
-    <a href="#"><img alt="Selenium IDE" src="https://img.shields.io/badge/Selenium IDE%20-%2300C4CC.svg?logo=Selenium IDE&logoColor=white"></a>
+    <a href="#"><img alt="Selenium IDE" src="https://img.shields.io/badge/Selenium%20IDE-00C4CC?style=for-the-badge&logo=selenium&logoColor=white"></a>
   
 </p>
 
@@ -169,7 +177,7 @@ I stand out for being highly responsible, organized, and detail-oriented—key s
   
   
   
-  
+
   
  
   
@@ -203,3 +211,4 @@ I stand out for being highly responsible, organized, and detail-oriented—key s
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+
