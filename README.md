@@ -5,17 +5,17 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back-End+Student;Junior+Web+Developer+student;Expertised+Accounting+Administrative;|%20Tester%20|%20AI%20|%20Code%20Enthusiast;Junior+QA+Manual+Tester;Music+Lover+and+Singer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Junior+Web+Developer;Back-End+Student;Expertised+Accounting+Administrative;|%20Tester%20|%20AI%20|%20Code%20Enthusiast;QA+Manual+Tester;Music+Lover+and+Singer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a professional with extensive experience in accounting and commercial administration who has recently discovered a passion for technology and software development. I have completed Software Testing courses and am currently training as a Backend Developer.
+<h4 align="center">I am a professional with extensive experience in accounting and commercial administration who has discovered a passion for technology and software development. I have completed Software Testing courses and am currently training as a Frontend and Back-End Developer.
 I stand out for being highly responsible, organized, and detail-oriented—key skills for ensuring software quality. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> </p>
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 
 ## 🛠️ My Skills
-
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 ### 👉 Programming languages
 
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
@@ -165,38 +165,23 @@ I stand out for being highly responsible, organized, and detail-oriented—key s
   
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
+
+<p align="center" > 
+	
+![](https://komarev.com/ghpvc/?username=MaVe1000&style=flat-square)
+
+</p>
 <!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/MaVe1000/count.svg" />  
-</p>
-   
+</div>
   
   
-  
-  
-  
-
-  
- 
-  
-  
-  
-  <br>
-  <p align="center">
-  <img src="https://github.com/MaVe1000/MaVe1000/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-
-
 
 </p>
 
 <hr/>
 
 * Credit: [MaVe1000](https://github.com/MaVe1000)
-* Last Edited on: 28/01/2025
+* Last Edited on: 09/07/2025
 <!--
 **MaVe1000/MaVe1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  &emsp;
