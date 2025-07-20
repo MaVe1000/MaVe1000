@@ -16,6 +16,8 @@ I stand out for being highly responsible, organized, and detail-oriented—key s
 
 ## 🛠️ My Skills
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+
 ### 👉 Programming languages
 
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
@@ -47,23 +49,37 @@ I stand out for being highly responsible, organized, and detail-oriented—key s
 ### 👉 Frontent Development
 <p align="left"> 
   &emsp; 
-  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> 
+<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" width="98" height="26"></a>	
   &emsp;
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" width="90" height="26"></a>	
  &emsp;
-  <a href="https://getbootstrap.com/" target="_blank">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-</a>	
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" width="100" height="100"></a>	
+ &emsp;
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white" width="100" height="26"></a>
+&emsp;
+  <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42b883.svg?logo=vue.js&logoColor=white" width="100" height="26"></a>
+&emsp;
+  <a href="#"><img alt="React.js" src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white" width="100" height="26"></a>	
   </p>
 
 ### 👉 Databases & Cloud Hosting
-<p align="left">
+<p align= "left">
+  <a href="https://www.mysql.com/">
+    <img class="tech-badge" alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" width="100" height="25">
+  </a>
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  <a href="https://www.github.com">
+    <img class="tech-badge" alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white" width="100" height="50">
+  </a>
   &emsp;
-        <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  
- </p>
+  <a href="#">
+    <img class="tech-badge" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white" width="100" height="25">
+  </a>
+  &emsp;
+  <a href="#">
+    <img class="tech-badge" alt="Render" src="https://img.shields.io/badge/Render-00bcd4.svg?logo=render&logoColor=white" width="100" height="25">
+  </a>
+</p>
   
 ### 👉Graphic Designing
 <p align="left">
@@ -107,7 +123,8 @@ I stand out for being highly responsible, organized, and detail-oriented—key s
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
      <a href="#"><img alt="IntelliJ IDA" src="https://img.shields.io/badge/IntelliJ%20 IDEA%20-0018d0.svg?logo=intelliJ-ida&logoColor=white"></a>
-  &emsp;	
+  &emsp;
+	<a href="#"><img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?logo=sourcetree&logoColor=white"></a>
 </p>
 
  ### 👉 Testing Tools
@@ -158,7 +175,6 @@ I stand out for being highly responsible, organized, and detail-oriented—key s
 	<a href="https://github.com/MaVe1000"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/+5492974126698"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/m-ver%C3%B3nica-rebolleda-a341a331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/Veiro30"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	
 </p>
 <br>
