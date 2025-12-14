@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Junior+Web+Developer;Back-End+Student;Expertised+Accounting+Administrative;|%20Tester%20|%20AI%20|%20Code%20Enthusiast;QA+Manual+Tester;Music+Lover+and+Singer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Junior+Web+Developer;Full-Stack+Developer;Back-End+Student;Expertised+Accounting+Administrative;|%20Tester%20|%20AI%20|%20Code%20Enthusiast;QA+Manual+Tester;Music+Lover+and+Singer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am a professional with extensive experience in accounting and commercial administration who has discovered a passion for technology and software development. I have completed Software Testing courses and am currently training as a Frontend and Back-End Developer.
