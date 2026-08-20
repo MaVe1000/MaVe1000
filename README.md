@@ -1,146 +1,133 @@
 ## Nice to see you here! 👋
 
 <h1 align="center">Hi , I'm María Verónica Rebolleda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 
-
+## About Me
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Junior+Web+Developer;Full-Stack+Developer;Back-End+Student;Expertised+Accounting+Administrative;|%20Tester%20|%20AI%20|%20Code%20Enthusiast;QA+Manual+Tester;Music+Lover+and+Singer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Full-Stack+Developer;AI+Workflow+Automation;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a professional with extensive experience in accounting and commercial administration who has discovered a passion for technology and software development. I have completed Software Testing courses and am currently training as a Frontend and Back-End Developer.
-I stand out for being highly responsible, organized, and detail-oriented—key skills for ensuring software quality. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I'm a Junior Full Stack Developer focused on building modern, responsive
+web applications and practical software solutions.
+
+I work with **JavaScript, TypeScript, React, Next.js, Java, Spring Boot,
+REST APIs, SQL and PostgreSQL**, and I'm also developing experience in
+**workflow automation with n8n and AI-powered integrations**.
+
+I enjoy learning new technologies, solving problems, collaborating with
+teams, and turning ideas into useful digital products.</h4>
 <br>
 <p align="center"> </p>
 
+------------------------------------------------------------------------
 
+
+-   💻 Junior Full Stack Developer at **Codeluxe**
+-   ⚛️ Frontend development with **React, Next.js, TypeScript and
+    JavaScript**
+-   ☕ Backend development with **Java and Spring Boot**
+-   🔌 Experience integrating **REST APIs**
+-   🗄️ Databases: **PostgreSQL, Supabase, MySQL and SQL**
+-   🤖 Workflow automation with **n8n**, API integrations and
+    AI-assisted workflows
+-   🧪 Software testing and QA fundamentals
+-   🔗 Git & GitHub for version control and collaboration
+-   👩‍🏫 Volunteer Web Development Mentor
+-   🌎 Open to remote and hybrid opportunities
+-   🇦🇷 Based in Córdoba, Argentina
+-   🇬🇧 English: Professional Working Proficiency (B1/B2)
+
+------------------------------------------------------------------------
 ## 🛠️ My Skills
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=150px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
-### 👉 Programming languages
+### 💻 Languages
 
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-   &emsp;
-  <a href="https://www.java.com/" target="_blank">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</a>
- 
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-### 👉 Back-End Development
-<p align="left"> 
-  &emsp; 
- <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-  &emsp;	
-  <a href="https://www.java.com/" target="_blank">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</a>
- &emsp;	
- <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> 
-  &emsp;
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
- &emsp;
-  </a>
-</p>
+### 🎨 Frontend
 
-### 👉 Frontent Development
-<p align="left"> 
-  &emsp; 
-<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" width="98" height="26"></a>	
-  &emsp;
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" width="90" height="26"></a>	
- &emsp;
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" width="100" height="100"></a>	
- &emsp;
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white" width="100" height="26"></a>
-&emsp;
-  <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42b883.svg?logo=vue.js&logoColor=white" width="100" height="26"></a>
-&emsp;
-  <a href="#"><img alt="React.js" src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white" width="100" height="26"></a>	
-  </p>
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
+![Tailwind
+CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Responsive
+Design](https://img.shields.io/badge/Responsive_Design-333333?logo=css3&logoColor=white)
 
-### 👉 Databases & Cloud Hosting
-<p align= "left">
-  <a href="https://www.mysql.com/">
-    <img class="tech-badge" alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" width="100" height="25">
-  </a>
-  &emsp;
-  <a href="https://www.github.com">
-    <img class="tech-badge" alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white" width="100" height="50">
-  </a>
-  &emsp;
-  <a href="#">
-    <img class="tech-badge" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white" width="100" height="25">
-  </a>
-  &emsp;
-  <a href="#">
-    <img class="tech-badge" alt="Render" src="https://img.shields.io/badge/Render-00bcd4.svg?logo=render&logoColor=white" width="100" height="25">
-  </a>
-</p>
+### ⚙️ Backend & APIs
+
+![Spring
+Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![REST
+API](https://img.shields.io/badge/REST_APIs-005571?logo=fastapi&logoColor=white)
+
+### 🗄️ Databases & Backend Services
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+### 🤖 Automation & AI
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+
+-   Workflow automation
+-   API integrations
+-   Multi-step workflows
+-   AI-assisted development
+-   Process optimization
+
+### 🌐 Web3 & Blockchain
+
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?logo=stellar&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-111111?logo=web3dotjs&logoColor=white)
+
+-   Stellar SDK
+-   Soroban smart contracts
+-   Trustless Work
+-   Story Protocol
+
+### 🧪 Testing & QA
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium_IDE-43B02A?logo=selenium&logoColor=white)
+
+-   Manual Testing
+-   Functional Testing
+-   API Testing
+-   Selenium IDE
+
+### 🔧 Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![VS
+Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![IntelliJ
+IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
+
+-   Agile / Scrum
+-   Git workflows
+-   Code collaboration
+-   API development and testing
+-   Docker & Docker Compose
+
+  -------------------------------------------------------------------------
   
-### 👉Graphic Designing
-<p align="left">
-  &emsp;
-  	  
-   <a href="https://www.adobe.com/in/products/ilustrator.html" target="_blank"> 
-    <img alt="Adobe Corel Photo Paint" src="https://img.shields.io/badge/Adobe Corel Photo Paint-%23FF9A00.svg?style=flat&logo=adobephotocorelpaint&logoColor=white"/>
-  </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Corel Draw" src="https://img.shields.io/badge/Corel Draw-%e749a0.svg?style=flat&logo=coreldraw&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Silhouette Cameo" src="https://img.shields.io/badge/Silhouette Cameo-%2300C4CC.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.wilcomeembroiderystudio.com/in/products/products.html" target="_blank"> 
-   <img alt="Wilcome Embroidery Studio" src="https://img.shields.io/badge/Wilcome Embroidery Studio-%23FF0000.svg?style=flat&logo=wilcomeembroiderystudio&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
-
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-   &emsp;
-	<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello%20-0078d7.svg?logo=Trello&logoColor=white"></a>
-	&emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-	 &emsp;
-    <a href="https://www.TangoGestion.com/"><img alt="Tango Gestión" src="https://img.shields.io/badge/Tango Gestión-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-     <a href="#"><img alt="IntelliJ IDA" src="https://img.shields.io/badge/IntelliJ%20 IDEA%20-0018d0.svg?logo=intelliJ-ida&logoColor=white"></a>
-  &emsp;
-	<a href="#"><img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?logo=sourcetree&logoColor=white"></a>
-</p>
-
- ### 👉 Testing Tools
- 
-<p>
-	 <a href="https://www.postman.com/" target="_blank">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</a>
-  &emsp;
-    <a href="#"><img alt="Selenium IDE" src="https://img.shields.io/badge/Selenium%20IDE-00C4CC?style=for-the-badge&logo=selenium&logoColor=white"></a>
-  
-</p>
-
-<br/>
-
-## 📊 Github Stats (Expand to View) 
+## 📊 GitHub Stats  
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
@@ -197,7 +184,7 @@ I stand out for being highly responsible, organized, and detail-oriented—key s
 <hr/>
 
 * Credit: [MaVe1000](https://github.com/MaVe1000)
-* Last Edited on: 09/07/2025
+* Last Edited on: 20/08/2026
 <!--
 **MaVe1000/MaVe1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  &emsp;
